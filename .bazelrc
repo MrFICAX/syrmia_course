@@ -1,0 +1,1 @@
+build --compiler=clang-cl --cxxopt="--coverage" --linkopt="\"C:\\Program Files\\LLVM\\lib\\clang\\14.0.6\\lib\\windows\\clang_rt.profile-x86_64.lib\""

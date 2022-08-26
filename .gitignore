@@ -1,0 +1,4 @@
+bazel-bazel_gmock_gtest_examples/
+bazel-bin/
+bazel-out/
+bazel-testlogs/
